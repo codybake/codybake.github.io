@@ -36,8 +36,11 @@ header img {
     width: /*  */;
     height: 350px;
     float: right;
+    border-radius: 28%;
 }
 
+
+    
 footer {
     font-size: /* smaller */;
 }
