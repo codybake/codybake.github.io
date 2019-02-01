@@ -1,0 +1,27 @@
+body {
+	background-color: #bbb;
+}
+
+header {
+	margin: 10px auto;
+	background-color: blue;
+	border: 1px solid #bbb;
+	box-shadow: 0 0 30px rgb(182, 60, 60);
+	text-align: center;
+}
+
+header img, .headings {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px;
+}
+h1 {
+    margin: 10px auto;
+	background-color: snow;
+	border: 1px solid darkgreen;
+	box-shadow: 0 0 30px rgb(182, 60, 60);
+	text-align: center;
+}
+footer{
+    background-color: lightsalmon;
+}
