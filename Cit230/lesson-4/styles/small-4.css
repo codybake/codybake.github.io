@@ -1,37 +1,44 @@
 
 body {
-    background-color: #53C8CE;/*whole screen color */
-    box-shadow: 0 0 10px #018B91;
+    background-color: #0E79E8;/*whole screen color */
 	text-align: center;
-	margin: 10px;
+	margin: -12px;
 }
 header {
-	margin: 10px auto;
-	background-color: #018B91;
-	border: 10px solid #2CBAC1;
-	box-shadow: #018B91;
+	background-color: #107BEA;
 	text-align: center;
 }
 
 header img, .headings {
 	display: inline-block;
-	vertical-align: middle;
-    margin: 10px;
+	vertical-align: left;
+	margin: -10px;
+	border-radius: 10%;
+	height: 75px;
+    float: left;
+   
 }
+
 h1 {
     margin: 1px auto;
-	background-color:#018B91;
-	border: 1px solid #016C71;
-	box-shadow: 0 0 100px #2CBAC1;
+	background-color:#107BEA;
 	text-align: center;
 	font-family: 'Ubuntu', sans-serif
 }
-footer{
-    background-color: #016C71;
-}
+
 ul{
-	background-color: #016C71;
+	background-color: #286CB2
+}
+
+footer{
+		background-color: #286CB2;
+}
     /* Colors   53C8CE
                 2CBAC1
                 018B91
 				016C71
+
+				107BEA
+				0E79E8
+				126CC9
+				286CB2
