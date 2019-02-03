@@ -12,9 +12,9 @@ header {
 header img, .headings {
 	display: inline-block;
 	vertical-align: left;
-	margin: 10px;
+	margin: 15px;
 	border-radius: 10%;
-	height: 75px;
+	height: 60px;
     float: left;
    
 }
