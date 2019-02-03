@@ -1,27 +1,37 @@
-body {
-	background-color: #bbb;
-}
 
+body {
+    background-color: #018B91;/*whole screen color */
+    box-shadow: 0 0 10px #018B91;
+	text-align: center;
+	margin: 10px;
+}
 header {
 	margin: 10px auto;
-	background-color: blue;
-	border: 1px solid #bbb;
-	box-shadow: 0 0 30px rgb(182, 60, 60);
+	background-color: #018B91;
+	border: 10px solid #2CBAC1;
+	box-shadow: #018B91;
 	text-align: center;
 }
 
 header img, .headings {
 	display: inline-block;
 	vertical-align: middle;
-	margin: 10px;
+    margin: 10px;
 }
 h1 {
-    margin: 10px auto;
-	background-color: snow;
-	border: 1px solid darkgreen;
-	box-shadow: 0 0 30px rgb(182, 60, 60);
+    margin: 1px auto;
+	background-color:#018B91;
+	border: 1px solid #016C71;
+	box-shadow: 0 0 100px #2CBAC1;
 	text-align: center;
+	font-family: 'Mr Dafoe', cursive;
 }
 footer{
-    background-color: lightsalmon;
+    background-color: #016C71;
 }
+ul{
+	background-color: #016C71;
+    /* Colors   53C8CE
+                2CBAC1
+                018B91
+				016C71
