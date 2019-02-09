@@ -1,0 +1,78 @@
+
+@media screen and (max-width: 400px){
+.forecast {
+	display: none;
+}body {
+    /*background-color: #0E79E8;/*whole screen color */
+	text-align: center;
+	margin: -12px;
+	color: red;
+}
+ul {
+	list-style-type: none;
+  }
+a {
+	text-decoration: none;
+}
+.active{
+    background-color: lime;
+}
+a:hover{
+	background-color: yellow;
+	color: brown;
+}
+	.forecast{
+	display black;
+	}
+
+p {
+	margin: 10px;
+	max-width: 500px;
+}
+table {
+	display: none;
+}
+
+}
+
+header {
+	background-color: #107BEA;
+	text-align: center;
+}
+
+header img, .headings {
+	display: inline-block;
+	vertical-align: left;
+	margin: 15px;
+	border-radius: 10%;
+	height: 60px;
+
+    float: left;
+   
+}
+
+h1 {
+    margin: 1px auto;
+	background-color:#107BEA;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif
+}
+
+ul{
+	
+	margin:40px auto;
+	background-color: #286CB2
+}
+
+footer{
+		background-color: #286CB2;
+}
+    /* Colors   53C8CE
+                2CBAC1
+                018B91
+				016C71
+
+				107BEA
+				0E79E8
+				126CC9
+				286CB2

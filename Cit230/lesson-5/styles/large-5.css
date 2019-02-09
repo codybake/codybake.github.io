@@ -1,0 +1,40 @@
+@media screen and (min-width: 501px) {
+    
+body {
+    color :black;
+    }
+    a {
+        text-decoration: none;
+    }
+.menu{
+    display: none;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        width: 800px;
+      }
+      
+      li {
+        float: left;
+        min-width: 100px;
+      }    
+    
+      .forecast {
+          display:block;
+      }
+ }
+.active{
+    background-color: lime;
+}
+a:hover{
+	background-color: yellow;
+	color: brown;
+}
+table{
+    background-color: lemonchiffon;
+    margin: 0px;
+}
+ 
