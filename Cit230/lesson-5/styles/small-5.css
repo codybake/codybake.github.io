@@ -2,8 +2,9 @@
 @media screen and (max-width: 400px){
 .forecast {
 	display: none;
-}body {
-    /*background-color: #0E79E8;/*whole screen color */
+}
+body {
+    background-color: rgb(158, 194, 233);/*whole screen color */
 	text-align: center;
 	margin: -12px;
 	color: red;
@@ -36,7 +37,7 @@ table {
 }
 
 header {
-	background-color: #107BEA;
+	background-color: orange;
 	text-align: center;
 }
 
@@ -53,7 +54,7 @@ header img, .headings {
 
 h1 {
     margin: 1px auto;
-	background-color:#107BEA;
+	background-color:grey;
 	text-align: center;
 	font-family: 'Ubuntu', sans-serif
 }
@@ -61,11 +62,12 @@ h1 {
 ul{
 	
 	margin:40px auto;
-	background-color: #286CB2
+	background-color: #red
+	
 }
 
 footer{
-		background-color: #286CB2;
+		background-color: purple;
 }
     /* Colors   53C8CE
                 2CBAC1
