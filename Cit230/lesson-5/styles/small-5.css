@@ -27,11 +27,12 @@ a:hover{
 }
 
 p {
-	margin: 110px;
+	margin: 10px;
 	max-width: 500px;
 }
 table {
 	display: none;
+	border-block-end-color border-left: 1px solid #000;: 
 }
 
 }
@@ -50,6 +51,8 @@ header {
 	
 		float: right;
 	   
+
+}
 
 }
 header img, .headings {
@@ -71,9 +74,9 @@ h1 {
 }
 
 ul{
-	
+	text-align:center;
 	margin:40px auto;
-	background-color: #F2D9ED
+	background-color: rgb(243, 166, 78)
 	
 }
 
