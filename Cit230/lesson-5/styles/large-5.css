@@ -5,11 +5,10 @@ body {
     }
     a {
         text-decoration: none;
-    }}
-/*.menu{
+    }
+.menu{
     display: none;
     }
-    */
     ul {
         list-style-type: none;
         margin: 0;
@@ -19,14 +18,16 @@ body {
       }
       
       li {
+          
+        list-style-type: none;
         float: left;
         min-width: 100px;
       }    
-    
+    ****************/
       .forecast {
           display:block;
       }
- }
+ }}
 .active{
     background-color: lime;
 }
