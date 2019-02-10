@@ -20,7 +20,7 @@ header img, .headings {
 }
 
 h1 {
-    margin: 1px auto;
+    margin: 15px auto;
 	background-color:#107BEA;
 	text-align: center;
 	font-family: 'Ubuntu', sans-serif
@@ -28,7 +28,11 @@ h1 {
 
 ul{
 	
+<<<<<<< HEAD
 	margin:40px auto;
+=======
+    margin: 40px auto;
+>>>>>>> 8c9e8e3c1075073c1a4934330b16517b3223f960
 	background-color: #286CB2
 }
 
