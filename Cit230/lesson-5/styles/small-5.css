@@ -4,7 +4,7 @@
 	display: none;
 }
 body {
-    background-color: rgb(158, 194, 233);/*whole screen color */
+    background-color: #989793;/*whole screen color */
 	text-align: center;
 	margin: -12px;
 	color: red;
@@ -20,14 +20,14 @@ a {
 }
 a:hover{
 	background-color: yellow;
-	color: brown;
+	color:#903842;
 }
 	.forecast{
-	display black;
+	display:#935A3D;
 }
 
 p {
-	margin: 10px;
+	margin: 110px;
 	max-width: 500px;
 }
 table {
@@ -40,7 +40,18 @@ header {
 	background-color: orange;
 	text-align: center;
 }
+.snowboard{
+	header img, .headings {
+		display: inline-block;
+		vertical-align: left;
+		margin: 15px;
+		border-radius: 30%;
+		height: 20px;
+	
+		float: right;
+	   
 
+}
 header img, .headings {
 	display: inline-block;
 	vertical-align: left;
@@ -54,7 +65,7 @@ header img, .headings {
 
 h1 {
     margin: 1px auto;
-	background-color:grey;
+	background-color:floralwhite;
 	text-align: center;
 	font-family: 'Ubuntu', sans-serif
 }
@@ -62,12 +73,12 @@ h1 {
 ul{
 	
 	margin:40px auto;
-	background-color: #red
+	background-color: #F2D9ED
 	
 }
 
 footer{
-		background-color: purple;
+		background-color: rgb(199, 94, 23);
 }
 /*
 #344B93  dark
@@ -78,5 +89,7 @@ footer{
 *****
 #F2D9ED  light
 
-
+#903842   maroon
+#935A3D   orange/brown
+#989793		whitesnow
 */

@@ -1,11 +1,11 @@
 @media screen and (min-width: 501px) {
     
 body {
-    color :black;
+    color :rgb(238, 215, 198);
     }
     a {
         text-decoration: none;
-    }
+    }}
 .menu{
     display: none;
     }
